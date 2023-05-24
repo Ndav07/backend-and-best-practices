@@ -1,0 +1,13 @@
+# dependecias
+node_modules
+
+#test
+coverage
+
+#build
+dist
+
+# local env files
+.env
+.env*.local
+postgres
